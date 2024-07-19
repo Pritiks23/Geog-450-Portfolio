@@ -1,0 +1,25 @@
+
+
+Project 1: Yelp API Crawler 
+Intro: I used an API crawler to filter bars in Redmond, Washington. As there is a cultural significance to it, and Redmond being a rich diverse area it made sense to me
+to explore the local bar scene and see how much agglomeration due to location influences other bars in the city. These charts show the big 
+impact bars play on the economy. The variety of bars give a vibrant community for different parts of Redmond. The radial dendrogram shows 
+the relationships: how closely similar bars are. Many bars would have a diverse clientele: rating/reviews would reflect this. As
+Seattle/Redmond is home to an array of Pacific Islanders,Asian,Latino,African,and Native American people so having a variety of bars
+which each has some sort of cultural tradition shows how the community is reflecting a more open approach embracing different cultures. Location: https://www.mapquest.com/us/washington/redmond-wa-282039142
+
+https://colab.research.google.com/drive/1XiSTt-Y2WT8Jx6ZofXOL9_b_7O03hmE2#scrollTo=qmVi1ctQaU_I
+
+Project 2 Foreign Born Population Sankey Diagram in King County:
+In this Python project I created an Infographic with a Sankey Diagram shows us the countries with the most immigrants migrating to King County where I manipulated
+data from the Census Bureau.Click on each country to see how the number of people who were born in that country and move to King County. Location: https://kingcounty.gov/en/legacy/about/region/maps
+
+https://colab.research.google.com/drive/1_JPxN7DJq_V_AGQfxT_Qh0TjH63pTcOB?usp=sharing
+
+Project 3 Image Processing:
+I took thirty photos in Seattle specifically the IMA, and did some python image processing PIL and eetrieved those color values and
+the number of pixels occupied by the color in the image.
+I converted the color value in hex and mapped a percentage of a color occupied area instead of the pixel number to compare the images properly. I then did normalized the values
+and did some analysis of what the results say about Seattle. Location: https://www.mapquest.com/search/University%20of%20washington%20Seattle
+
+https://colab.research.google.com/drive/1jN44jS0Mm5WqODQktm7V7rF0y-3rM6dc?authuser=1
